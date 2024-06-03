@@ -1,3 +1,4 @@
 My name is Alan Josue Gutierrez Castillo.
-I am a physycist form UNAM.
+I am a physycist from UNAM.
 I like data science.
+And I hope I can be a data scientist.
